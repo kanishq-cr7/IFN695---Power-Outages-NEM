@@ -1,0 +1,13 @@
+OUTAGESTATUSCODE,STATUS_DESCRIPTION
+COMPLETE,Completed
+INFO,Information
+MTLTP,Medium term timeframe likely to proceed
+PDLTP,Predispatch timeframe likely to proceed
+PTP,Permission to Proceed
+PTR,Permission to Restore
+RESUBMIT,Resubmitted
+STLTP,Short term timeframe likely to proceed
+SUBMIT,Submitted
+UTP,Unlikely to proceed
+WD REQ,Withdraw Request
+WDRAWN,Withdrawn

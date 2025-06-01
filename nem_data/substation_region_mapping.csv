@@ -1,0 +1,738 @@
+SUBSTATIONID,Matched_Station_Name,State,RegionID,MatchScore
+PANORAMA,Panorama,New South Wales,NSW1,100
+MT_PIPER,Mount Piper,New South Wales,NSW1,82
+BERYL,Beryl,New South Wales,NSW1,100
+MAGILL,Magill,South Australia,SA1,100
+SYTS,St Marys,Tasmania,TAS1,55
+SMTS,Smithton,Tasmania,TAS1,68
+ROTS,Ross,Queensland,QLD1,75
+T152_G_S,Tamworth 132,New South Wales,NSW1,45
+T22_CALL,Stawell,Victoria,VIC1,57
+T19_GSTH,Coburg South,Victoria,VIC1,51
+WAGGA132,Wagga 132,New South Wales,NSW1,100
+YASS,Yass,New South Wales,NSW1,100
+T209_BLF,Bluff,Queensland,QLD1,50
+TAREE,Taree,New South Wales,NSW1,100
+STROUD,Stroud,New South Wales,NSW1,100
+MURRAY,Murray,New South Wales,NSW1,100
+SSCMA,Cooma,New South Wales,NSW1,60
+H3_BELMT,Belmont-H3,Queensland,QLD1,62
+H22_LOGN,Hillston,New South Wales,NSW1,53
+H23_UKED,Que,Tasmania,TAS1,60
+TIPS_B,Duchess Road-Mt Isa,Queensland,QLD1,60
+H11_NEBO,Nebo,Queensland,QLD1,90
+T141_PVA,X41,Queensland,QLD1,60
+DAVENP,Davenport,South Australia,SA1,90
+GRWF,Griffith,New South Wales,NSW1,68
+275KV_8814,Woolooga 275,Queensland,QLD1,30
+R2_BRAE,Braemar,Queensland,QLD1,62
+LISMORE,Lismore,New South Wales,NSW1,100
+SYD_WEST,Sydney West,New South Wales,NSW1,82
+H35_STHM,Horsham,Victoria,VIC1,57
+T177_KCK,Keswick,South Australia,SA1,43
+T193_CLS,Mt Colah,New South Wales,NSW1,43
+T220_COL,Mt Colah,New South Wales,NSW1,57
+TTS,Scottsdale,Tasmania,TAS1,90
+GNTS,Clements Gap Wind Farm,South Australia,SA1,68
+T71_CLMT,Metz,New South Wales,NSW1,60
+GADARA,Gadara,New South Wales,NSW1,100
+TUMUT132,Tumut 132,New South Wales,NSW1,100
+ULVERSTN,Ulverstone,Tasmania,TAS1,89
+BETS,Forbes,New South Wales,NSW1,77
+KGTS,Knights Road,Tasmania,TAS1,68
+BURONGA,Buronga,New South Wales,NSW1,100
+MOPS,Hampshire,Tasmania,TAS1,68
+RWTS,Mackay Ports,Queensland,QLD1,77
+YADNAR,Yadnarie,South Australia,SA1,86
+T34_MRNB,Nebo,Queensland,QLD1,60
+R3_BULLI,Rudall,South Australia,SA1,62
+H40_WURD,Howard,Queensland,QLD1,62
+MARULAN,Marulan,New South Wales,NSW1,100
+T13_CHIN,Bairnsdale Switching,Victoria,VIC1,64
+WWANG,Wallerawang,New South Wales,NSW1,72
+GTS,Clements Gap Wind Farm,South Australia,SA1,60
+T35_DYST,Dysart,Queensland,QLD1,62
+T110_PKD,Blackstone 110,Queensland,QLD1,51
+BRKNHILL,Nhill,Victoria,VIC1,90
+SSMST,SSMST,Queensland,QLD1,100
+SSMLT,SSMLS,Queensland,QLD1,80
+H58_LARC,Ayr,Queensland,QLD1,60
+T199_YAR,Ayr,Queensland,QLD1,60
+PARA,Para,South Australia,SA1,100
+H18_TRNG,Terang,Victoria,VIC1,62
+H36_BLKW,Kew,Victoria,VIC1,72
+WMTS,Duchess Road-Mt Isa,Queensland,QLD1,68
+ATS,Watsonia,Victoria,VIC1,90
+KTS,Hummocks,South Australia,SA1,72
+T5_GLAD,Zetland,New South Wales,NSW1,62
+GLAD_PS,Gladstone,Queensland,QLD1,75
+H67_CALR,Ayr,Queensland,QLD1,60
+T38_MKAY,Ayr,Queensland,QLD1,72
+WAGGA330,Wagga 330,New South Wales,NSW1,100
+DARL_PT,Dapto,New South Wales,NSW1,73
+CBTS,Abbotsbury,New South Wales,NSW1,68
+APD,Lennox Head,New South Wales,NSW1,72
+T8_GYMP,Gympie,Queensland,QLD1,67
+H5_WLGA,Wilga Park,New South Wales,NSW1,60
+T108_BNL,Bungal,Victoria,VIC1,46
+TBTS,Scottsdale,Tasmania,TAS1,68
+ERTS,Robertstown,South Australia,SA1,90
+BLTS,Blyth West,South Australia,SA1,68
+BRINKW,Brinkworth,South Australia,SA1,90
+T30_ASHW,Waratah West,New South Wales,NSW1,51
+MULLUMB,Mullumbimby,New South Wales,NSW1,90
+BNGALORA,Bungalora,New South Wales,NSW1,94
+YANCO,Yanco,New South Wales,NSW1,100
+URANQNTY,Uranquinty,New South Wales,NSW1,89
+MURRUMBR,Murrumburrah,New South Wales,NSW1,80
+WELLNGTN,Wellington,New South Wales,NSW1,89
+WADAMANA,Waddamana 220,Tasmania,TAS1,80
+PALMSTN,Palmerston,Tasmania,TAS1,82
+MOLONG,Molong,New South Wales,NSW1,100
+PT_MCQAR,Ayr,Queensland,QLD1,72
+EMU_BAY,Emu Bay,Tasmania,TAS1,100
+ORANGE_N,Orange,New South Wales,NSW1,92
+DDTS,St Leonards,Tasmania,TAS1,51
+TIPS_A,Duchess Road-Mt Isa,Queensland,QLD1,80
+PGWEST,Orange West,New South Wales,NSW1,75
+RSWTHY,Roseworthy,South Australia,SA1,75
+BANNABY,Bannaby,New South Wales,NSW1,100
+T189_OKY,Oaky,New South Wales,NSW1,77
+FARRELL,Farrell,Tasmania,TAS1,100
+REECE,Reece,Tasmania,TAS1,100
+CH_GDN,Hughenden,Queensland,QLD1,57
+H56_YBLS,Yabulu South,Queensland,QLD1,51
+T145_TVL,Morphett Vale East,South Australia,SA1,51
+T112_MTM,Metz,New South Wales,NSW1,51
+KOOLKHAN,Koolkhan,New South Wales,NSW1,100
+SYD_NTH,Sydenham Zone,Victoria,VIC1,75
+B_WATER,Bayswater,New South Wales,NSW1,80
+BURRINJK,Burrinjuck,New South Wales,NSW1,89
+RTS,Port Stanvac,South Australia,SA1,90
+H12_MT_E,Hume,New South Wales,NSW1,60
+H38_GDNA,Goodna,Queensland,QLD1,62
+S3_GNBNK,Greenbank,Queensland,QLD1,62
+T39_PROS,Ross,Queensland,QLD1,77
+MLTS,Milton,Queensland,QLD1,68
+PENO_W,Glenrowan,Victoria,VIC1,72
+H7_GLAD,Gladstone,Queensland,QLD1,60
+275KV_818,Blackstone 275,Queensland,QLD1,34
+H15_LILY,Lilyvale,Queensland,QLD1,53
+T134_CDW,Tumut 132,New South Wales,NSW1,40
+H4_MUGBA,Emu Bay,Tasmania,TAS1,62
+EPS,Parkes,New South Wales,NSW1,72
+MUSBK330,Muswellbrook 330,New South Wales,NSW1,70
+SINGLETN,Singleton,New South Wales,NSW1,94
+REGENTVL,Regentville,New South Wales,NSW1,84
+G_TOWN,Googong Town,New South Wales,NSW1,90
+H8_BOYNE,Boyer,Tasmania,TAS1,67
+132KV_7145,Tumut 132,New South Wales,NSW1,35
+H20_BSND,South Bundaberg,Queensland,QLD1,51
+H72_BKST,Blackstone 110,Queensland,QLD1,51
+T56_TV_S,Port Stanvac,South Australia,SA1,45
+T20_BUND,East Bundaberg,Queensland,QLD1,64
+H6_GNGN,Gin Gin,Queensland,QLD1,67
+MORP_E,Moree,New South Wales,NSW1,80
+SHTS,Knights Road,Tasmania,TAS1,68
+TUGGERAH,Tuggerah,New South Wales,NSW1,100
+MWTS,Olympic Dam West,South Australia,SA1,68
+R_TOWN,Somerton,Victoria,VIC1,80
+T46_GARB,Ayr,Queensland,QLD1,60
+T150_ASH,Monash,South Australia,SA1,46
+T32_BWTR,West Wetherill,New South Wales,NSW1,51
+T11_CBLT,Caboolture SSQR50,Queensland,QLD1,51
+JLTS,Jelbart,Victoria,VIC1,55
+WIV_PS,Ewingsdale,New South Wales,NSW1,54
+T100_RCK,White Rock Wind Farm,New South Wales,NSW1,51
+H10_BCMB,Bombala,New South Wales,NSW1,43
+T136_ABM,Tyabb,Victoria,VIC1,50
+T162_BND,North West Bend,South Australia,SA1,51
+S_EAST,Lismore East,New South Wales,NSW1,72
+T155_WDR,Stewart,New South Wales,NSW1,43
+T78_LOCK,Mount Lock,South Australia,SA1,62
+H62_ABMN,Harman,New South Wales,NSW1,62
+T142_TEN,Tottenham,Victoria,VIC1,50
+N_W_B,Snowtown Windfarm South,South Australia,SA1,60
+H16_RLEA,Yea,Victoria,VIC1,60
+BUNGAM,Bungama,South Australia,SA1,92
+TUMUT1_2,Tumut 132,New South Wales,NSW1,93
+TOMAGO,Tomago,New South Wales,NSW1,100
+HWTS,Blyth West,South Australia,SA1,68
+ROTS_500,Ross,Queensland,QLD1,68
+HYTS,Knights Road,Tasmania,TAS1,68
+132KV_7146,Gunnedah 132-66,New South Wales,NSW1,36
+OURIMBAH,Ourimbah,New South Wales,NSW1,100
+VALES_PT,Vales Point,New South Wales,NSW1,82
+FORBES,Forbes,New South Wales,NSW1,100
+PARKES,Parkes,New South Wales,NSW1,100
+WRH_WEST,Waratah West,New South Wales,NSW1,78
+MUNMORAH,Munmorah,New South Wales,NSW1,100
+TRIBUTE,Tribute,Tasmania,TAS1,100
+LINFARNE,Lindisfarne,Tasmania,TAS1,84
+H2_SPINE,North Springwood,Queensland,QLD1,64
+T31_BRAL,Baralaba,Queensland,QLD1,53
+DORRIE,Dorrien,South Australia,SA1,92
+T98_DNGO,Dingo,Queensland,QLD1,67
+H14_MRDG,South Morang,Victoria,VIC1,51
+W_LOO,Waterloo East,South Australia,SA1,68
+TEMPLE,Templestowe,Victoria,VIC1,90
+T10_YARR,Ayr,Queensland,QLD1,60
+H_VALL,Challicum Hills,Victoria,VIC1,72
+HADSPEN,Hadspen,Tasmania,TAS1,100
+YPS,St Marys,Tasmania,TAS1,72
+T65_ALCK,Port Hacking,New South Wales,NSW1,51
+DEVILS_G,Degilbo,Queensland,QLD1,57
+FISHER,Fisher,Tasmania,TAS1,100
+T124_TRV,Mt Terry,New South Wales,NSW1,43
+SHEFIELD,Sheffield,Tasmania,TAS1,94
+BLANCH,Blanche,South Australia,SA1,92
+NORTHF,Northfield,South Australia,SA1,90
+H24_CALV,Calvale,Queensland,QLD1,57
+SST29,Morisset,New South Wales,NSW1,60
+SSRVW,SSQRT,Queensland,QLD1,60
+275KV_8868,Woolooga 275,Queensland,QLD1,30
+275KV_8869,Woolooga 275,Queensland,QLD1,30
+T146_OAK,Oaky,New South Wales,NSW1,77
+T147_TAN,Port Stanvac,South Australia,SA1,51
+H51_SBKE,Kew,Victoria,VIC1,72
+PT_L_T,Port Latta,Tasmania,TAS1,68
+H13_ROSS,Ross,Queensland,QLD1,90
+T53_KAM,Tangkam,Queensland,QLD1,62
+RCTS,Port Stanvac,South Australia,SA1,68
+HOTS,Port Stanvac,South Australia,SA1,68
+MITCHELL,Mitchell,New South Wales,NSW1,100
+BAYSWATR,Bayswater,New South Wales,NSW1,94
+ARMIDALE,Armidale,New South Wales,NSW1,100
+STAN_PS,Postmans Ridge,Queensland,QLD1,75
+TAMWORTH,Tamworth,New South Wales,NSW1,100
+H29_STAN,Hillston,New South Wales,NSW1,53
+T105_OON,Tomerong,New South Wales,NSW1,53
+NEWCSTLE,Newcastle,New South Wales,NSW1,94
+SSCOR,Tods Corner,Tasmania,TAS1,72
+TEMCO,Temora,New South Wales,NSW1,73
+T23_ROCK,White Rock Wind Farm,New South Wales,NSW1,64
+T80_REDB,Redbank,New South Wales,NSW1,57
+H31_MDNR,Molendinar,Queensland,QLD1,47
+FINLEY,Finley,New South Wales,NSW1,100
+TUMUT3,Tumut 132,New South Wales,NSW1,86
+SYD_STH,Sydney South,New South Wales,NSW1,71
+275KV_812,Muswellbrook 132,New South Wales,NSW1,34
+H73_RAGL,Raglan,Queensland,QLD1,62
+LY,Blyth West,South Australia,SA1,90
+LE_FEV,Le Fevre,South Australia,SA1,83
+SSNSD,Essendon,Victoria,VIC1,72
+H21_MRRE,Hume,New South Wales,NSW1,55
+SYD_EAST,Sydney East,New South Wales,NSW1,82
+T61_PAND,Zetland,New South Wales,NSW1,57
+T127_EGN,Mount England,Queensland,QLD1,51
+H39_WORE,Woree,Queensland,QLD1,67
+T129_EDM,Eden,New South Wales,NSW1,51
+H75_KUMP,Hume,New South Wales,NSW1,55
+WHY_T,Whitmore Square,South Australia,SA1,68
+WHYA_C,Morgan-Whyalla No 4,South Australia,SA1,72
+MT_LOC,Mount Lock,South Australia,SA1,72
+BLYT_W,Blyth West,South Australia,SA1,72
+SSCST,SSCST,Queensland,QLD1,100
+SSWRD,Wellington Road-SSWRD,Queensland,QLD1,90
+LIVERPL,Liverpool,New South Wales,NSW1,88
+HAYMARKT,Haymarket,New South Wales,NSW1,94
+SSAST,SSCST,Queensland,QLD1,80
+SSMLS,SSMLS,Queensland,QLD1,100
+H9_PLMWD,Palmwoods,Queensland,QLD1,62
+MLINK_B,North east LLink,Victoria,VIC1,66
+MONASH,Monash,South Australia,SA1,100
+GUTHEGA,Guthega,New South Wales,NSW1,100
+WOTS,Port Stanvac,South Australia,SA1,68
+JINDERA,Jindera,New South Wales,NSW1,100
+CULTAN,Cultana,South Australia,SA1,92
+E_TCE,West Castle Hill,New South Wales,NSW1,68
+LENNOX_H,Lennox Head,New South Wales,NSW1,82
+9G3,Wagga 330,New South Wales,NSW1,60
+T111_NOR,Oura,New South Wales,NSW1,60
+AVON,Avon,New South Wales,NSW1,100
+DAPTO,Dapto,New South Wales,NSW1,100
+TSTS,Port Stanvac,South Australia,SA1,68
+KEMPS_CK,Kemps Creek,New South Wales,NSW1,82
+BTS,Clements Gap Wind Farm,South Australia,SA1,60
+CHAPEL,Chapel Street,Tasmania,TAS1,90
+LIAPOOTA,Liapootah,Tasmania,TAS1,94
+WAGGANTH,Wagga North,New South Wales,NSW1,89
+TEMP_W,Templestowe,Victoria,VIC1,72
+T97_GREG,Gregory,Queensland,QLD1,57
+MILLBR,Millbrook,South Australia,SA1,90
+ANG_CK,Jeeralang,Victoria,VIC1,68
+T70_CORY,Cooroy,Queensland,QLD1,62
+SSSPO,SSMLS,Queensland,QLD1,60
+T187_RLD,Stroud,New South Wales,NSW1,46
+T43_STWB,North West Bend,South Australia,SA1,51
+MAKNTOSH,Mackintosh,Tasmania,TAS1,89
+HWPS,Blyth West,South Australia,SA1,68
+T161_ALG,Tasmanian Electro Metallurgical Company,Tasmania,TAS1,51
+T160_SMR,Temora,New South Wales,NSW1,46
+KILBUR,Kilburn,South Australia,SA1,92
+SSBBH,BHP,New South Wales,NSW1,72
+DUMARESQ,Dumeresq,New South Wales,NSW1,88
+T137_NGY,Tanby,Queensland,QLD1,50
+T69_NLDS,Newlands,Queensland,QLD1,53
+T12_KILK,St Kilda,Victoria,VIC1,57
+NORWOOD,Norwood,Tasmania,TAS1,100
+TREVALYN,Trevallyn,Tasmania,TAS1,94
+ERARING,Eraring,New South Wales,NSW1,100
+T24_RUNC,Runcorn,Queensland,QLD1,57
+T93_CNTH,Ballarat North,Victoria,VIC1,51
+MT_BAR,Mount Barker South,South Australia,SA1,72
+BFIELD_W,Beaconsfield West,New South Wales,NSW1,77
+CANBERRA,Corraberra,South Australia,SA1,78
+SAPWF,Clements Gap Wind Farm,South Australia,SA1,72
+N_OSBN,Fishermans Bend,Victoria,VIC1,72
+T104_STN,Port Stanvac,South Australia,SA1,51
+LIDDELL,Liddell,New South Wales,NSW1,100
+NPSD,Ewingsdale,New South Wales,NSW1,68
+R4_MILLM,Pioneer Sugar Mill,Queensland,QLD1,69
+T51_CRNS,Torrens Island A,South Australia,SA1,51
+MTS,Clements Gap Wind Farm,South Australia,SA1,60
+SVTS,St Marys,Tasmania,TAS1,55
+T128_RBA,Roma,Queensland,QLD1,51
+RALEIGH,Raleigh,New South Wales,NSW1,100
+COFFS,Coffs Harbour,New South Wales,NSW1,90
+BALRANLD,Balranald,New South Wales,NSW1,94
+T36_INVA,Port Stanvac,South Australia,SA1,51
+VINEYARD,Vineyard,New South Wales,NSW1,100
+SSSPD,SSMLS,Queensland,QLD1,60
+INGLBURN,Ingleburn,New South Wales,NSW1,94
+LISM132,Lismore 132,New South Wales,NSW1,82
+WST_GSFD,West Gosford,New South Wales,NSW1,78
+T21_QAL,Sale,Victoria,VIC1,51
+CAPITAL,Capital Hill Wind Farm,New South Wales,NSW1,90
+JLGSB,Algester,Queensland,QLD1,54
+CANOWI,Canowie,South Australia,SA1,92
+SSCVL,Rossville,Queensland,QLD1,72
+SSBPN,BHP,New South Wales,NSW1,60
+T48_TLLY,Tully,Queensland,QLD1,67
+MOWBRAY,Mowbray,Tasmania,TAS1,100
+SL_MY,Wesley Vale,Tasmania,TAS1,68
+T27_MRA,Temora,New South Wales,NSW1,67
+T94_TVE,Morphett Vale East,South Australia,SA1,60
+LYPS,Olympic Dam West,South Australia,SA1,68
+WOLLAR,Wollar,New South Wales,NSW1,100
+GRIFFITH,Griffith,New South Wales,NSW1,100
+SSMLB,SSMLS,Queensland,QLD1,80
+T50_INFL,Captains Flat,New South Wales,NSW1,64
+WILLMSDL,Willalo,South Australia,SA1,67
+CLAR_N,Clare,Queensland,QLD1,80
+MINTAR,Mintaro,South Australia,SA1,92
+SOMERSBY,Sommersby,New South Wales,NSW1,94
+GOSFORD,Gosford,New South Wales,NSW1,100
+MUSBK132,Muswellbrook 132,New South Wales,NSW1,70
+NRCS,Sunrise Hills,Queensland,QLD1,68
+H32_CHLM,Hume,New South Wales,NSW1,51
+KINCRA,Kincraig,South Australia,SA1,86
+T99_GRNT,Mount Garnet,Queensland,QLD1,64
+FBTS,Abbotsbury,New South Wales,NSW1,68
+SILVERWF,Kew,Victoria,VIC1,60
+T75_NRNG,Terang,Victoria,VIC1,62
+MANNUM,Mannum,South Australia,SA1,100
+TUNGATIN,Tungatin,Tasmania,TAS1,100
+DERWENT,Derwent Bridge,Tasmania,TAS1,90
+BUTLERS,Butlers Gorge Tee,Tasmania,TAS1,90
+ClareSF,Clare,Queensland,QLD1,83
+T107_COP,Top Ryde,New South Wales,NSW1,43
+T_BEND,North West Bend,South Australia,SA1,90
+T174_TRA,East Terrace,South Australia,SA1,51
+TI_N,Wayatinah,Tasmania,TAS1,90
+SSBBS,SSMLS,Queensland,QLD1,60
+JBUTTERS,John Butters,Tasmania,TAS1,84
+T77_KIDS,Kidston,Queensland,QLD1,57
+SSSFD,SSMLS,Queensland,QLD1,60
+SSBHD,BHP,New South Wales,NSW1,60
+T72_BARC,Teebar Creek,Queensland,QLD1,64
+T92_DNGL,Mount England,Queensland,QLD1,51
+MUNYANG,Munyang,New South Wales,NSW1,100
+WATT_P,Wattle Point Wind Farm,South Australia,SA1,72
+DALRYM,Dalrymple,South Australia,SA1,90
+MT_B_S,Duchess Road-Mt Isa,Queensland,QLD1,68
+DENILIQN,Deniliquin,New South Wales,NSW1,89
+T26_BILO,Biloela,Queensland,QLD1,57
+COLMBLLY,Coleambally,New South Wales,NSW1,84
+T81_CADE,Callide A,Queensland,QLD1,53
+CAL_C_PS,Comalco,Tasmania,TAS1,62
+S5_WESTD,Parafield Gardens West,South Australia,SA1,75
+HTS,Knights Road,Tasmania,TAS1,90
+CRNS_CTY,Cairns City,Queensland,QLD1,82
+TALAWARA,Tallawarra,New South Wales,NSW1,89
+HUME,Hume,New South Wales,NSW1,100
+ALBURY,Albury,New South Wales,NSW1,100
+T171_ELR,Templers,South Australia,SA1,53
+SSNGE,Hoppers Crossing,Victoria,VIC1,72
+MLNK_B,North east LLink,Victoria,VIC1,60
+MLRC,Comalco,Tasmania,TAS1,68
+GLEN_INN,Glen Innes,New South Wales,NSW1,88
+132KV_760,Gunnedah 132-66,New South Wales,NSW1,56
+T101_CMD,Richmond,Victoria,VIC1,40
+CAL_A_PS,Calvale,Queensland,QLD1,62
+TRNGN_PS,Terang,Victoria,VIC1,62
+ANM,Kanmantoo Mine,South Australia,SA1,90
+T153_QAW,Stawell,Victoria,VIC1,43
+T157_IS,Australian Newsprint Mills,New South Wales,NSW1,45
+MACARTHR,Macarthur,New South Wales,NSW1,94
+KEMPSEY,Kempsey,New South Wales,NSW1,100
+SNUGGY,Snuggery,South Australia,SA1,86
+N_NRFOLK,New Norfolk,Tasmania,TAS1,82
+STUDLAND,Studland Bay Wind Farm,Tasmania,TAS1,90
+SMITHTON,Smithton,Tasmania,TAS1,100
+SLEAFD,Sleaford,South Australia,SA1,86
+WN_ST,Eagles Downs,Queensland,QLD1,77
+T93_CLS,Mt Colah,New South Wales,NSW1,46
+WN_SB,Eagles Downs,Queensland,QLD1,77
+TAMAR_PS,St Marys,Tasmania,TAS1,71
+T55_TURK,Turkinje,Queensland,QLD1,53
+SSQR42,SSQRT,Queensland,QLD1,73
+TGTS,Knights Road,Tasmania,TAS1,68
+T219_WCK,Borthwick,New South Wales,NSW1,50
+H76_WAND,Wandoo,Queensland,QLD1,62
+KAR_H_PS,Kogarah,New South Wales,NSW1,62
+CREEK_RD,Creek Road,Tasmania,TAS1,88
+TRTS,Strathalbyn,South Australia,SA1,68
+SSWED,Wellington Road-SSWRD,Queensland,QLD1,72
+COWRA,Cowra,New South Wales,NSW1,100
+T40_IFLT,Captains Flat,New South Wales,NSW1,53
+T182_QLS,Pennant Hills,New South Wales,NSW1,41
+KINGAROY,Kingaroy,Queensland,QLD1,100
+COLONGRA,Ulong,New South Wales,NSW1,72
+SCOTDALE,Scottsdale,Tasmania,TAS1,89
+MOBILO,Mobilong,South Australia,SA1,86
+HUMMOC,Hummocks,South Australia,SA1,86
+KEITH,Keith,South Australia,SA1,100
+BATS,Basslink-George Town,Tasmania,TAS1,68
+BASTYAN,Batemans Bay,New South Wales,NSW1,64
+SSLBS,SSMLS,Queensland,QLD1,80
+SSDBS,SSMLS,Queensland,QLD1,60
+GORDON,Gordon,Tasmania,TAS1,100
+WATE_E,Waterloo East,South Australia,SA1,72
+WILMOT,Wilton,New South Wales,NSW1,67
+MOKOTA,Mokota,South Australia,SA1,100
+TRNG_PS,Terang,Victoria,VIC1,67
+T194_CLB,Mt Colah,New South Wales,NSW1,43
+MACKSVIL,Macksville,New South Wales,NSW1,89
+T67_KMIS,Kemmis,Queensland,QLD1,62
+SSHIL,Oaklands Hill Wind Farm,Victoria,VIC1,72
+SSGFN,Davisson,New South Wales,NSW1,60
+BELALI,Belalie-North Brown Hill Wind Farm,South Australia,SA1,90
+OCPL,Rocklands,Queensland,QLD1,68
+BLLC,Ballarat North,Victoria,VIC1,68
+MAYURA,Mayura,South Australia,SA1,100
+L_BONY,Strathalbyn,South Australia,SA1,60
+T217_CBC,Teebar Creek,Queensland,QLD1,39
+CITY_W,City West,South Australia,SA1,90
+MBTS,Duchess Road-Mt Isa,Queensland,QLD1,68
+T16_NAMB,Nambour,Queensland,QLD1,57
+DRY_CK,Dry Creek,South Australia,SA1,77
+ROSEBERY,Rosebery,Tasmania,TAS1,100
+T210_DUR,Oura,New South Wales,NSW1,51
+T242_SPR,Para,South Australia,SA1,60
+KURRI,Kurri,New South Wales,NSW1,100
+ROTHBURY,Rothbury,New South Wales,NSW1,100
+BERRI,Berri,South Australia,SA1,100
+CETHANA,Cethana,Tasmania,TAS1,100
+OAKEY_PS,Oakey,Queensland,QLD1,83
+BURNIE,Burnie 220,Tasmania,TAS1,90
+PELI_P,Pelican Point,South Australia,SA1,72
+PEL_PS,Chapel Street,Tasmania,TAS1,72
+T173_ARM,Ayr,Queensland,QLD1,60
+SSGBS,SSMLS,Queensland,QLD1,60
+T74_GNTH,Ballarat North,Victoria,VIC1,51
+MKPS,Newton Pumps,Tasmania,TAS1,77
+WILLOG,Willalo,South Australia,SA1,77
+WILLAL,Willalo,South Australia,SA1,92
+RISDON,Risdon,Tasmania,TAS1,100
+H63_TBAR,Ayr,Queensland,QLD1,72
+WETS,Clements Gap Wind Farm,South Australia,SA1,68
+PT_LATTA,Port Latta,Tasmania,TAS1,88
+NO_B_H,Lennox Head,New South Wales,NSW1,68
+SSVPK,Kearneys Spring,Queensland,QLD1,54
+BAROOT,Baroota,South Australia,SA1,92
+MT_S_PS,Clements Gap Wind Farm,South Australia,SA1,54
+LEMONTYM,Lemonthyme,Tasmania,TAS1,89
+MT_MIL,Mumbil,New South Wales,NSW1,73
+ARDN_W,Cherry Gardens,South Australia,SA1,72
+T95_MILL,Invicta Mill,Queensland,QLD1,69
+POATINA,Orana,Queensland,QLD1,67
+SSBWH,BHP,New South Wales,NSW1,60
+BOAMBEE,Boambee South,New South Wales,NSW1,90
+St.T158_YAL,Yea,Victoria,VIC1,60
+BALLINA,Ballina,New South Wales,NSW1,100
+CRAIGLIE,Craiglie,Queensland,QLD1,100
+T120_KOR,Oura,New South Wales,NSW1,60
+T166_GCK,Tangkam,Queensland,QLD1,43
+H71_DDPS,Nambucca Heads,New South Wales,NSW1,45
+T47_INGM,Tangkam,Queensland,QLD1,57
+KADINA_E,Kadina East,South Australia,SA1,82
+SRCS,Lannercost,Queensland,QLD1,68
+TENTFLD,Tenterfield,New South Wales,NSW1,78
+LADB_G,Torrens Island B,South Australia,SA1,72
+TUNKIL,Tungkillo,South Australia,SA1,80
+CAL_B_PS,BHP,New South Wales,NSW1,60
+MT_GAM,Mount Gambier,South Australia,SA1,72
+BLOWERG,Blowering,New South Wales,NSW1,88
+WYONG,Wyong,New South Wales,NSW1,100
+WBTS,Watsonia,Victoria,VIC1,68
+QPS,Hampshire,Tasmania,TAS1,60
+T2_DALBY,Dalby,Queensland,QLD1,83
+COMALCO,Comalco,Tasmania,TAS1,100
+SSBRD,Wellington Road-SSWRD,Queensland,QLD1,72
+CROOKWF,Crookwell Wind Farm,New South Wales,NSW1,77
+COOMA,Cooma,New South Wales,NSW1,100
+TVLLE_PS,Regentville,New South Wales,NSW1,69
+DUNOON,Dunoon,New South Wales,NSW1,100
+BCDE_PS,Cades County,Queensland,QLD1,60
+HMPSHIRE,Hampshire,Tasmania,TAS1,94
+ELTS,Clements Gap Wind Farm,South Australia,SA1,68
+T163_RLS,Ross,Queensland,QLD1,51
+H82_BLYD,Holroyd,New South Wales,NSW1,57
+ARTS,North Hobart,Tasmania,TAS1,77
+KANGAROO,Kangaroo Valley,New South Wales,NSW1,90
+DPS,St Leonards,Tasmania,TAS1,72
+T211_WYC,Wycarbah,Queensland,QLD1,40
+KOGAN_PS,Kooragang,New South Wales,NSW1,62
+JLGSA,Port Noarlunga,South Australia,SA1,54
+275KV_8859,Woolooga 275,Queensland,QLD1,30
+BRAE_PS,Braemar,Queensland,QLD1,62
+REDBANK,Redbank,New South Wales,NSW1,100
+T59_MRBO,Tomerong,New South Wales,NSW1,53
+BUNBHW_1,BHP,New South Wales,NSW1,60
+T139_BDN,Eden,New South Wales,NSW1,51
+T200CMPS,Templers,South Australia,SA1,50
+STEEPLE,Steeple Flat,New South Wales,NSW1,90
+BEGA,Bega,New South Wales,NSW1,100
+T58_WRCK,Warwick,Queensland,QLD1,57
+T54_BG_H,BHP,New South Wales,NSW1,60
+275KV_8903,Woolooga 275,Queensland,QLD1,30
+EWINGSDL,Ewingsdale,New South Wales,NSW1,89
+MILLM_PS,Australian Newsprint Mills,New South Wales,NSW1,75
+T172_MND,Cootamundra,New South Wales,NSW1,51
+T123_MUN,Cootamundra,New South Wales,NSW1,51
+MDWBANK,Meadowbank,Tasmania,TAS1,82
+T131_ISI,Isis,Queensland,QLD1,77
+DPTS,Dapto,New South Wales,NSW1,67
+BENDEELA,Bendemeer,New South Wales,NSW1,71
+STS_WF,West Castle Hill,New South Wales,NSW1,54
+STSBHW_1,BHP,New South Wales,NSW1,60
+T241_LKR,X41,Queensland,QLD1,60
+T234_BLV,Bellevue,Queensland,QLD1,40
+P_AD_N,Pandoin,Queensland,QLD1,73
+H77_CLMB,Coleambally,New South Wales,NSW1,51
+INVERELL,Inverell,New South Wales,NSW1,100
+T37_COLL,Mt Colah,New South Wales,NSW1,57
+EAST_LIS,North east LLink,Victoria,VIC1,77
+ALSTONVL,Alstonville,New South Wales,NSW1,84
+P_PIRI,Port Pirie,South Australia,SA1,72
+OLYM_W,Olympic Dam West,South Australia,SA1,72
+H87_CRCK,Leigh Creek South,South Australia,SA1,51
+T188_DND,Studland Bay Wind Farm,Tasmania,TAS1,51
+T215_EDW,Kew,Victoria,VIC1,60
+WHITERCK,White Rock,New South Wales,NSW1,94
+H78_ORAN,Oura,New South Wales,NSW1,68
+AT.ARWF,Cape Bridgewater Wind Farm,Victoria,VIC1,60
+MASONPRK,Mason Park,New South Wales,NSW1,94
+CWTS,Watsonia,Victoria,VIC1,68
+H85_COOP,Cooma,New South Wales,NSW1,50
+94H,Hay,New South Wales,NSW1,33
+JLA,Balhannah,South Australia,SA1,60
+SBK_E_PS,Kempsey,New South Wales,NSW1,62
+DCPKSTEE,Rocky Street,Queensland,QLD1,63
+CHARMHVN,Charmhaven,New South Wales,NSW1,89
+T225_CCK,Cumnock,New South Wales,NSW1,43
+H60_WALK,South Walker Creek,Queensland,QLD1,64
+CATAGNYA,Catagunya,Tasmania,TAS1,94
+WAYATINA,Wayatinah,Tasmania,TAS1,94
+S2_HALYS,Halys,Queensland,QLD1,83
+LISM_SS,Isis,Queensland,QLD1,68
+WDP,Waddamana 220,Tasmania,TAS1,60
+EMEROO,Bendemeer,New South Wales,NSW1,66
+BOCOROCK,Corio,Victoria,VIC1,72
+275KV_879,Blackstone 275,Queensland,QLD1,34
+275KV_8911,Woolooga 275,Queensland,QLD1,30
+T221_WTG,Wotonga,Queensland,QLD1,43
+H48_B2PS,BHP,New South Wales,NSW1,60
+MBH_2,Ourimbah,New South Wales,NSW1,68
+MBH_3,Ourimbah,New South Wales,NSW1,68
+TARRALEA,Tarraleah,Tasmania,TAS1,94
+275KV_8913,Muswellbrook 132,New South Wales,NSW1,30
+L_ECHO,Lake Echo,Tasmania,TAS1,77
+WKPS,Hawksbury,New South Wales,NSW1,68
+T83_ROMA,Roma,Queensland,QLD1,90
+DERBY,Derby,Tasmania,TAS1,100
+ROMA_PS,Roma,Queensland,QLD1,90
+MRTS,Port Stanvac,South Australia,SA1,68
+BOYER,Boyer,Tasmania,TAS1,100
+TARALGA,Taralga Wind Farm,New South Wales,NSW1,90
+GOULBURN,Goulburn,New South Wales,NSW1,100
+DE_MR ,Derwent Bridge,Tasmania,TAS1,68
+H91_HGTN,Heatherton,Victoria,VIC1,47
+SORELL,Sorell,Tasmania,TAS1,100
+REDHIL,Red Hill,South Australia,SA1,92
+CLEM_G,Clements Gap Wind Farm,South Australia,SA1,72
+BGTS,Knights Road,Tasmania,TAS1,68
+S_TOWN,Queenstown,Tasmania,TAS1,90
+110KV_7246/1,X41,Queensland,QLD1,60
+BLGT,Blyth West,South Australia,SA1,68
+MOREE_SF,Moree,New South Wales,NSW1,83
+KANM_M,Kanmantoo Mine,South Australia,SA1,72
+BACK_C,Middleback,South Australia,SA1,80
+WAT_WF,Batlow,New South Wales,NSW1,55
+LIN_GP,Basslink-George Town,Tasmania,TAS1,72
+SAVRIVER,Savage River,Tasmania,TAS1,84
+HALLET,Sale,Victoria,VIC1,68
+66KV_6011,Blackstone 110,Queensland,QLD1,34
+DALR_N,Balranald,New South Wales,NSW1,72
+NAMBUCCA,Nambucca,New South Wales,NSW1,100
+MNWF,Walkamin,Queensland,QLD1,51
+MSWF,Muswellbrook 330,New South Wales,NSW1,68
+275KV_814/1,X41,Queensland,QLD1,60
+275KV_8900,Woolooga 275,Queensland,QLD1,30
+275KV_8840/3,X41,Queensland,QLD1,30
+MW_4,Mowbray,Tasmania,TAS1,60
+275KV_8840/2,X41,Queensland,QLD1,30
+66KV_6056,Kew,Victoria,VIC1,30
+MW_3,MDR Pump MW3,South Australia,SA1,90
+N_HOBART,North Hobart,Tasmania,TAS1,78
+HGTS,Knights Road,Tasmania,TAS1,68
+STH_LISM,Lismore,New South Wales,NSW1,57
+275KV_8815,Woolooga 275,Queensland,QLD1,30
+MA_3,Panorama,New South Wales,NSW1,72
+132KV_7117/3,Tumut 132,New South Wales,NSW1,33
+MDLBCK,Middleback,South Australia,SA1,75
+KIAMALSF,Kiamal Solar Farm,Victoria,VIC1,79
+WARTAH_T,Waratah,Tasmania,TAS1,86
+PIEMAN,Pimba,South Australia,SA1,73
+997/2,Mount Piper 132,New South Wales,NSW1,22
+QNSTOWN,Queenstown,Tasmania,TAS1,82
+PIMBA,Pimba,South Australia,SA1,100
+MT_G_S,West Gosford,New South Wales,NSW1,68
+275KV_8893,Woolooga 275,Queensland,QLD1,30
+EMERALD,Emerald,Queensland,QLD1,100
+BGS,Homebush Bay,New South Wales,NSW1,60
+NYNGN132,Nyngan,New South Wales,NSW1,71
+PALOONA,Paloona,Tasmania,TAS1,100
+MEWF,Moe,Victoria,VIC1,57
+T243_YRN,Ayr,Queensland,QLD1,60
+275KV_813/1,Muswellbrook 132,New South Wales,NSW1,30
+BRYBNKSS,Braybrook,Victoria,VIC1,59
+110KV_7247/3,Burnie 110,Tasmania,TAS1,32
+110KV_7246/3,Burnie 110,Tasmania,TAS1,32
+110KV_7247/1,X41,Queensland,QLD1,60
+ARTHURS,Arthurs Lake,Tasmania,TAS1,90
+BBTS_TGTS_220,Tumut 2,New South Wales,NSW1,45
+BANGOWF,Bango Wind Farm,New South Wales,NSW1,77
+STOCKDIL,St Kilda,Victoria,VIC1,67
+275KV_813/2,Muswellbrook 132,New South Wales,NSW1,40
+BRYBNKWF,Berrybank Wind Farm,Victoria,VIC1,68
+T255_RRS,Torrens Island A,South Australia,SA1,51
+275KV_813,Muswellbrook 132,New South Wales,NSW1,34
+LYPA,Suffolk Park,New South Wales,NSW1,68
+GLANV,Raglan,Queensland,QLD1,73
+YARRN_SF,Yarraman,Queensland,QLD1,67
+275KV_814/2,Muswellbrook 132,New South Wales,NSW1,30
+CRUDNEWF,Kew,Victoria,VIC1,60
+STARWOOD,Starwood,Tasmania,TAS1,100
+SSQRT,SSQRT,Queensland,QLD1,100
+MW_1,MDR Pump MW1,South Australia,SA1,90
+CLC,Colac,Victoria,VIC1,75
+SSNRV_T,SSQRT,Queensland,QLD1,73
+MW_2,MDR Pump MW2,South Australia,SA1,90
+WIN,Clements Gap Wind Farm,South Australia,SA1,90
+LIMN1_SF,Lindisfarne,Tasmania,TAS1,64
+KESWIC,Keswick,South Australia,SA1,92
+WHIT_S,Whitmore Square,South Australia,SA1,72
+275KV_8901,Woolooga 275,Queensland,QLD1,30
+EMRLDWST,Beaconsfield West,New South Wales,NSW1,68
+VBB,Tyabb,Victoria,VIC1,60
+T60_STAN,Port Stanvac,South Australia,SA1,64
+WALGBESS,Walgett,New South Wales,NSW1,67
+MA_2,Panorama,New South Wales,NSW1,72
+SNAP_P,Snapper Mine,New South Wales,NSW1,90
+BOGBRI_N,Boggabri,New South Wales,NSW1,80
+MOREE,Moree,New South Wales,NSW1,100
+CHARTWRS,Charters Towers,Queensland,QLD1,79
+CAPERVR,Cape River East,Queensland,QLD1,77
+66kV_6383,Muswellbrook 330,New South Wales,NSW1,34
+LYPB,Olympic Dam West,South Australia,SA1,68
+HUGH,Hughenden,Queensland,QLD1,90
+66kV_CRHU1,Hume,New South Wales,NSW1,51
+KEPG,Kempsey,New South Wales,NSW1,68
+CPR_EAST,Cowra East,New South Wales,NSW1,75
+BLGC,Blacktown,New South Wales,NSW1,68
+BERYL_SF,Beryl,New South Wales,NSW1,83
+METZ_SF,Metz,New South Wales,NSW1,90
+ROKEBY,Robeby,Tasmania,TAS1,83
+MORNGTON,Mornington,Tasmania,TAS1,89
+QUEANBYN,Que,Tasmania,TAS1,90
+T198_BLA,Bega,New South Wales,NSW1,51
+T268_CMB,Campbell,New South Wales,NSW1,40
+JRDNE_CK,Jardine Creek,Queensland,QLD1,74
+BOGBRI_E,Boggabri,New South Wales,NSW1,80
+URALLA,Uralla,New South Wales,NSW1,100
+H108_TUM,Hume,New South Wales,NSW1,55
+LYGS,Algester,Queensland,QLD1,68
+NARRAND,Narrandera,New South Wales,NSW1,82
+SEBAS_SF,Yass,New South Wales,NSW1,68
+TEMORA,Temora,New South Wales,NSW1,100
+SSSGT,SSCST,Queensland,QLD1,80
+66KV_STWO,Kidston,Queensland,QLD1,53
+SSNVR_T,SSQRT,Queensland,QLD1,73
+132KV_7128/3,Tumut 132,New South Wales,NSW1,33
+AVOCA,Avoca,Tasmania,TAS1,100
+T272_CLB-BREAKER,Braemar,Queensland,QLD1,64
+T272_CLB,Mt Colah,New South Wales,NSW1,43
+JUNEE,Junee,New South Wales,NSW1,100
+T280_DRL,Trundle,New South Wales,NSW1,43
+WOLLAR_W,Wollar,New South Wales,NSW1,92
+NEUROO,Neuroodla,South Australia,SA1,90
+ELECTRNA,Electrona,Tasmania,TAS1,94
+RYE_PARK,Rye Park Wind Farm,New South Wales,NSW1,90
+NYNGN_SF,Nyngan,New South Wales,NSW1,77
+BERESFLD,Beresfield,New South Wales,NSW1,89
+QUE,Que,Tasmania,TAS1,100
+W_JEMALN,Jemalong,New South Wales,NSW1,80
+CLRMT_SF,Clermont,Queensland,QLD1,67
+ FORBES,Forbes,New South Wales,NSW1,100
+SSNSW,Ardrossan West,South Australia,SA1,72
+BARK_I,Benarkin,Queensland,QLD1,77
+MANILDRA,Manildra,New South Wales,NSW1,100
+H162_BNB,South Bundaberg,Queensland,QLD1,51
+JUNEE_SF,Junee,New South Wales,NSW1,83
+R14_TUMM,Drummoyne,New South Wales,NSW1,50
+RYE_P_WF,Yea,Victoria,VIC1,60
+Z35_CCB,Mica Creek B,Queensland,QLD1,38
+NEVRT_SF,Nevertire,New South Wales,NSW1,62
+H169_EUR,Oura,New South Wales,NSW1,51
+BUNDEY,Bundaberg,Queensland,QLD1,67
+T256_GRL,Trundle,New South Wales,NSW1,43
+MBH_1,Ourimbah,New South Wales,NSW1,68
+R15_MISS,Isis,Queensland,QLD1,77
+BUNROB_1,Bunnerong,New South Wales,NSW1,62
+BUNROB_2,Bunnerong,New South Wales,NSW1,62
+SSMDH,SSMLS,Queensland,QLD1,60
+SUNRY_SF,Sunbury,Victoria,VIC1,71
+H90_TLYS,Halys,Queensland,QLD1,67
+WYA_SF,Yass,New South Wales,NSW1,67
+ART,Macarthur Wind Farm,Victoria,VIC1,90
+H93_GUMN,Hume,New South Wales,NSW1,55
+RIVERINA,Erina,New South Wales,NSW1,90
+GUNNEDAH,Gunnedah,New South Wales,NSW1,100
+132KV_7117/2,Tumut 132,New South Wales,NSW1,33
+132KV_7117/4,Tumut 132,New South Wales,NSW1,33
+CRTS,Port Stanvac,South Australia,SA1,68
+GPTS,Knights Road,Tasmania,TAS1,68
+T254_BNA,Bega,New South Wales,NSW1,51
+H96HN2SF,Murray Bridge-Hahndorf No 3,South Australia,SA1,45
+WALAWALA,Awaba,New South Wales,NSW1,72
+MA_1,Panorama,New South Wales,NSW1,72
+6F,Gunning Wind Farm,New South Wales,NSW1,45
+H148_DMN,Harman,New South Wales,NSW1,46
+275KV_8996,Woolooga 275,Queensland,QLD1,30
+H86_DDSF,Nambucca Heads,New South Wales,NSW1,45
+HILLSTON,Hillston,New South Wales,NSW1,100
+STUBO_SF,West Gosford,New South Wales,NSW1,64
+4,X41,Queensland,QLD1,90
+ERA_BESS,Forbes,New South Wales,NSW1,62

@@ -1,0 +1,14 @@
+# Ignore all CSV files inside specific folders
+nem_data/DISPATCHPRICE/*.csv
+nem_data/TRADINGPRICE/*.csv
+nem_data/DISPATCHREGIONSUM/*.csv
+nem_data/DISPATCHPRICE_CLEANED/*.csv
+nem_data/TRADINGPRICE_CLEANED/*.csv
+nem_data/DISPATCHREGIONSUM_CLEANED/*.csv
+
+# Optional: Ignore temporary files or logs
+*.log
+*.tmp
+.DS_Store
+
+nem_data/PUBLIC_ARCHIVE#NETWORK_OUTAGEDETAIL#FILE01#202503010000.CSV
